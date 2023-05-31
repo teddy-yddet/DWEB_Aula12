@@ -1,0 +1,9 @@
+.p-basico {
+    font-family: 'Avenir Next', 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 500;
+    color: aliceblue;
+}
+
+h1 {
+    text-shadow: -0.5px 0 black, 0 0.5px black, 0.5px 0 black, 0 -0.5px black;
+}

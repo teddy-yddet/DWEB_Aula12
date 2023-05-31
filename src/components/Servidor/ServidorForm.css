@@ -1,0 +1,45 @@
+.s-form {
+    font-size: 12px;
+    font-weight: 500;
+    border: 1px cornsilk 1px;
+    align-items: center;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+    padding: 15px;
+    margin: 10px;
+    border-radius: 5px;
+    background-color: indigo;
+    display: inline-block;
+
+}
+
+.p-form div {
+    display: flex;
+    align-items: flex-start;
+}
+
+label {
+    text-align: left;
+    width: 100px;
+    padding: 12px 12px 12px 0;
+    display: inline-block;
+}
+
+input {
+    width: 300px;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 2px;
+}
+
+
+button {
+    background-color: teal;
+    border: none;
+    border-radius: 2px;
+    color: white;
+    padding: 10px 10px;
+    text-decoration: none;
+    margin: 2px 2px;
+    cursor: pointer;
+    width: 100%;
+  }
